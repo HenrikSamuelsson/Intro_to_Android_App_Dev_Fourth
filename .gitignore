@@ -25,3 +25,6 @@ proguard/
 
 # Log Files
 *.log
+
+# The text book that forms the base for the repository
+The_book/
