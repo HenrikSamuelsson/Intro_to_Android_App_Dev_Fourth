@@ -10,3 +10,9 @@ USB debugging must be enabled in the developers options to be able to debug an a
 
 ## 4 ##
 The Android application framework is provided in the android.jar file.    
+
+## 5 ##
+The top-level package name for unit-testing support is called junit.  
+
+## 6 ##
+The AdMob Ads SDK is an API for integrating advertising into applications.  
