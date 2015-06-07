@@ -25,5 +25,7 @@ Auto import settings can be found in:
 	File > Settings > Editor > General > Auto Import   
 
 ## 5 ##
-The keyboard shortcut for toggling a break point in Android Studio is [Ctrl + F8] assuming Windows or Linux OS.  
+The keyboard shortcut for toggling a break point in Android Studio is [Ctrl + F8] assuming Windows or Linux OS. 
 
+## 6 ##
+The keyboard short cut for Override/Implement Methods in Android Studio is [Ctrl + o] on Windows systems. This will bring up a menu where methods can be chosen.  
