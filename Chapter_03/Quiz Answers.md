@@ -17,3 +17,7 @@ Some break-point keyboard shortcuts in Android Studio are:
 - Step Over [F8]  
 - Step Out [Shift + F8]  
 - Resume Program [F9]  
+
+## 5 ##
+The keyboard shortcut for toggling a break point in Android Studio is [Ctrl + F8] assuming Windows or Linux OS.  
+
