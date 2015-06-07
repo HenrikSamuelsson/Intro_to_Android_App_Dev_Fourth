@@ -18,6 +18,12 @@ Some break-point keyboard shortcuts in Android Studio are:
 - Step Out [Shift + F8]  
 - Resume Program [F9]  
 
+## 4 ##
+There are settings for auto import on the fly in Android Studio so there is not really a need for a keyboard shortcut for organizing imports.
+
+Auto import settings can be found in:  
+	File > Settings > Editor > General > Auto Import   
+
 ## 5 ##
 The keyboard shortcut for toggling a break point in Android Studio is [Ctrl + F8] assuming Windows or Linux OS.  
 
