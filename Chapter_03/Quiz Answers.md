@@ -10,3 +10,10 @@ The letters e, w, i, v, and d that can be used with the Log class are all abbrev
 - i = info (priority 4)  
 - w = warn (priority 5)  
 - e = error (priority 6)  
+
+## 3 ##
+Some break-point keyboard shortcuts in Android Studio are:
+- Step Into [F7]  
+- Step Over [F8]  
+- Step Out [Shift + F8]  
+- Resume Program [F9]  
